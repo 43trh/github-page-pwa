@@ -1,1 +1,1 @@
-# one
+# PWA Template for Github Pages
